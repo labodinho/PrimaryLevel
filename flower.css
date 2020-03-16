@@ -1,0 +1,168 @@
+.header{
+    background-image: url('../image/flow4.jpg');
+    height: 40vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: bottom;
+
+}
+.head{
+    text-align: center;
+    color: crimson;
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 10px;
+}
+
+.below{
+    text-align: center;
+    color:green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.below2{
+    text-align: center;
+    font-size: 30px;
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+.container{
+    background-image: url('../Image/flow.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.nav, li, .tag2{
+    color: red;
+    padding: 10px 15px;
+    text-transform: initial;
+    text-decoration: none;
+    margin-bottom: 10px 15px;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+
+ li, .tag2{
+    display: inline; 
+    /* background-color: chartreuse; */
+}
+
+li, .tag2:hover{
+    color: magenta;
+    background-color:greenyellow;
+    padding: 3px;
+    margin: 5px;
+    
+}
+
+
+.footer{
+    width: 100%;
+    height: auto;
+    min-height: 250px;
+    margin-top: 0px;
+    background-image: url('../Image/flower6.jpg');
+    background-position: top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    overflow: hidden;
+
+}
+
+.card-1, .card-3, .card-5{
+    border-bottom: 2px solid green;
+}
+
+.card-2, .card-4, .card-6{
+    border-bottom: 2px solid red;
+}
+
+.footer{
+    width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+
+/* .sub{
+    padding: 20px;
+    margin: 30px;
+} */
+
+.green{
+    color: green;
+    font-style: oblique;
+}
+
+/* .sub1{
+    color:red;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: large;
+    font-style: italic;
+} */
+
+.foot{
+    background-color: yellowgreen;
+    border-radius: 10px;
+    color: red;
+    padding: 10px 15px;
+    border: none;
+}
+
+.foot:hover{
+    color: white;
+    background-color: green;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.na{
+    display: block;
+    background-color: transparent;
+}
+
+
+.form, .na, .tag3, .tag4, .text{
+    text-align: center;
+    color: green;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.foothd{
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    padding: 20px;
+    margin: 30px;
+    background-color: seagreen;
+}
+
+.footer{
+    border:50px;
+    padding: 30px;
+    width: 100%;
+}
+
+.ft{
+    text-align: center;
+    font-style: italic;
+    font-size: 20px;
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
